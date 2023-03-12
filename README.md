@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gauravgn90
 - 👀 I’m interested in web development and API development
-- 🌱 I’m currently learning blockchain development, DevOps tools
 - 💞️ I’m looking to collaborate on DevTools
 - 📫 How to reach me ...
 
